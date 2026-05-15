@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background: white;
+  background: rgb(241, 13, 115);
   padding: 30px;
   border-radius: 10px;
   text-align: center;
@@ -19,7 +19,7 @@ body {
 
 button {
   background: #160f9e;
-  color: white;
+  color: rgb(218, 237, 11);
   border: none;
   padding: 10px 20px;
 }
